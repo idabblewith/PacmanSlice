@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: a2e964cb6aaaa1a498ed7d778641146c
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e74732057462e5749a12412128bff241, type: 2}

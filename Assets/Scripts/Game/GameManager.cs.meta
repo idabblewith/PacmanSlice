@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 8b2e1b407e3e4fe4382c53c75a149776
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pausePanel: {instanceID: 0}
+  - fullMapImage: {instanceID: 0}
+  - endPanel: {instanceID: 0}
+  - fontTMPType: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - pelletEat: {fileID: 8300000, guid: 3364b5466c0780a41a043ddc13984672, type: 3}
+  - bigPelletEat: {instanceID: 0}
+  - bonusEat: {instanceID: 0}
+  - ghostEat: {instanceID: 0}
+  - deathClip: {instanceID: 0}
+  - clyde: {instanceID: 0}
+  - blinky: {instanceID: 0}
+  - inky: {instanceID: 0}
+  - pinky: {instanceID: 0}
+  - pacman: {instanceID: 0}
+  - InputHandler: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
